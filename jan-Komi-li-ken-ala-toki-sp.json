@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/O4UOtyn.jpg",
   "chapters": {
     "1": {
-      "title": "ale li pona",
+      "title": "jan pi nasa ala",
       "volume": "1",
       "last_updated": "1710778894",
       "groups": {
@@ -14,11 +14,11 @@
       }
     },
     "2": {
-      "title": "jan pi nasa ala",
+      "title": "ale li pona",
       "volume": "1",
       "last_updated": "1710783634",
       "groups": {
-        "ale li pona": "/proxy/api/imgur/chapter/GF7giyP"
+        "": "/proxy/api/imgur/chapter/GF7giyP"
       }
     }
   }
