@@ -1,6 +1,6 @@
 {
   "title": "jan Komi li ken ala toki",
-  "description": "",
+  "description": "nasa toki li kulupu pi ike pilin. ike ni li pali e ni: jan pi nasa ni li ken ala kama lon poka jan kepeken nasin pona. suli la o sona e ni: jan ni li wile lon poka pi jan mute, taso ona li ken pona ala.",
   "artist": "Tomohito Oda",
   "author": "Tomohito Oda",
   "cover": "https://i.imgur.com/O4UOtyn.jpg",
@@ -11,6 +11,14 @@
       "last_updated": "1710778894",
       "groups": {
         "jan pi nasa ala": "/proxy/api/imgur/chapter/QeS3WXr"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1710783634",
+      "groups": {
+        "ale li pona": "/proxy/api/imgur/chapter/GF7giyP"
       }
     }
   }
