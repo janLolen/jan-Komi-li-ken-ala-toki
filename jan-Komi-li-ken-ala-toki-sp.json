@@ -20,6 +20,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/GF7giyP"
       }
+    },
+    "3": {
+      "title": "jan monsuta",
+      "volume": "1",
+      "last_updated": "1710785277",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/HWfsV81"
+      }
+    },
+    "4": {
+      "title": "ken ala",
+      "volume": "1",
+      "last_updated": "1710785323",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ofUPBpt"
+      }
+    },
+    "5": {
+      "title": "mi wile toki",
+      "volume": "1",
+      "last_updated": "1710785385",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zNLdPWf"
+      }
     }
   }
 }
